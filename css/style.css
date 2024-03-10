@@ -282,6 +282,12 @@ bottom: 2em;
     margin-bottom: 1.5em;
 }
 
+#footer-details p {
+    color: #fff;
+    margin-bottom: 1.5em;
+}
+
+
 #news-container input {
     border-radius: 0;
     border: none;
